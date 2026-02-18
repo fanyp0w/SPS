@@ -18,3 +18,7 @@ Make the script executable:
 Run the script from the terminal:
 
 `./server-stats.sh`
+
+
+
+https://roadmap.sh/projects/server-stats
